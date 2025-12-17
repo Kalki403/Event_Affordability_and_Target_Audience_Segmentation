@@ -1,0 +1,2 @@
+# Event_Affordability_and_Target_Audience_Segmentation
+internship task from WEbpoise Techknowledgy
